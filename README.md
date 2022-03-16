@@ -7,6 +7,8 @@
 
 ## Installation
 
+<!-- URL ediarum Set-UP ya no funciona -->
+
 - To install ediarum.PROHD.edit follow the instructions in the [ediarum Set-UP](https://www.ediarum.org/docs/set-up/oxygen/tasks/t_speicherort_ediarumbase_festlegen.html); at this time, we do not yet have the ediarum.REGISTER *framework* available.
 - During the installation process, the only relevant change with respect to ediarum.BASE.edit is the use of @type attributes (instead of @doctype). To display the CSS file correctly in Oxygen XML Author, check that the installation contains the @type attributes. 
 1. Go to *Options* --> *Preferences* --> *Document Type Association*
